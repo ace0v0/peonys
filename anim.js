@@ -7,7 +7,7 @@ var lyricsData = [
   { text: "hai sayangggg", time: 1.9 },
   { text: "heheheheheheh", time: 3 },
   { text: "maaf yaaa sayangggg", time: 4 },
-  { text: "untuk saat ini aku baru bisa kasi bunga ini", time: 6},
+  { text: "saat ini aku baru bisa kasi bunga ini", time: 6},
   { text: "tapi ku janji", time: 9},
   { text: "secepetnya bakal jadi bunga asliii", time: 13 },
   { text: "aku cuma mau bilang", time: 18 },
